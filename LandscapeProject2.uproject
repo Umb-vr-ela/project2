@@ -11,6 +11,10 @@
 		{
 			"Name": "GoogleVRController",
 			"Enabled": true
+		},
+		{
+			"Name": "ShaderBits-GDC-Pack",
+			"Enabled": true
 		}
 	]
 }
