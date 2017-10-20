@@ -17,16 +17,32 @@
 			"Enabled": true
 		},
 		{
+			"Name": "SteamVR",
+			"Enabled": false
+		},
+		{
+			"Name": "CodeView",
+			"Enabled": true
+		},
+		{
+			"Name": "GoogleCloudMessaging",
+			"Enabled": false
+		},
+		{
+			"Name": "LocationServicesAndroidImpl",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemNull",
+			"Enabled": false
+		},
+		{
 			"Name": "OculusAudio",
 			"Enabled": true
 		},
 		{
 			"Name": "OnlineSubsystemOculus",
 			"Enabled": true
-		},
-		{
-			"Name": "SteamVR",
-			"Enabled": false
 		}
 	]
 }
